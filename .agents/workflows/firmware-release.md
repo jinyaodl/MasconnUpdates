@@ -16,8 +16,8 @@ This workflow assumes the filename follows the convention: `${product_id}_${vers
    - Extract `VERSION_CODE`: Everything between the underscore and `.zip`.
    - Set `VERSION_TAG`: Use the full filename (without extension) as the tag.
 
-2. **Calculate SHA256 Checksum**
-   Run `shasum -a 256 dist/[FILENAME]` to get the hash.
+2. **Calculate SHA256 Checksum (Remote)**
+   Run `gh release download [VERSION_TAG] -p "[FILENAME]" -O - -R jinyaodl/iwantacake | shasum -a 256` to get the hash directly from the remote asset.
 
 3. **Create GitHub Release**
    Run `gh release create [VERSION_TAG] -R jinyaodl/iwantacake --title "Release [VERSION_TAG]" --notes "Automated release for [PRODUCT_ID]"` in the repository.

@@ -14,8 +14,8 @@ This workflow assumes the filename follows the convention: `[APP_NAME]_[VERSION_
    - Extract `VERSION_CODE`: Everything between the underscore and `.apk`.
    - Set `VERSION_TAG`: Use `app/[APP_NAME]/[VERSION_CODE]` (e.g., `app/MasconnLauncher/101`).
 
-2. **Calculate SHA256 Checksum**
-   Run `shasum -a 256 dist/[FILENAME]` to get the hash.
+2. **Calculate SHA256 Checksum (Remote)**
+   Run `gh release download [VERSION_TAG] -p "[FILENAME]" -O - -R jinyaodl/iwantacake | shasum -a 256` to get the hash directly from the remote asset.
 
 3. **Create GitHub Release**
    Run `gh release create [VERSION_TAG] -R jinyaodl/iwantacake --title "[APP_NAME] [VERSION_CODE]" --notes "Automated release for [APP_NAME]"` in the repository.
