@@ -1,0 +1,30 @@
+[
+  {
+    "version_code": 200,
+    "version_name": "3.0.0-gold",
+    "update_type": "full",
+    "base_version_code": null,
+    "min_version_code": 100,
+    "max_version_code": null,
+    "download_url": "https://ota.xtreamz.com/firmware/v3.0.0_full.zip",
+    "sha256_checksum": "a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e",
+    "is_force_update": false,
+    "release_notes": "Major UI overhaul and kernel stability improvements.",
+    "publish_date": "2026-03-14T12:00:00Z",
+    "product_id": "XT-X1-PRO"
+  },
+  {
+    "version_code": 201,
+    "version_name": "3.0.1-patch",
+    "update_type": "incremental",
+    "base_version_code": 200,
+    "min_version_code": 200,
+    "max_version_code": 200,
+    "download_url": "https://ota.xtreamz.com/firmware/v3.0.0_to_3.0.1.delta",
+    "sha256_checksum": "3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "is_force_update": true,
+    "release_notes": "Hotfix for system update service crash on startup.",
+    "publish_date": "2026-03-15T09:45:00Z",
+    "product_id": "XT-X1-PRO"
+  }
+]

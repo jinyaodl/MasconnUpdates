@@ -1,0 +1,6 @@
+dist/
+*.bin
+*.zip
+*.delta
+*.patch
+.DS_Store
