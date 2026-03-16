@@ -15,5 +15,22 @@
     ],
     "product_id_regex": null,
     "excluded_product_ids": []
+  },
+  {
+    "package_name": "com.masconn.tvmanager",
+    "app_name": "TvManager",
+    "version_code": 1,
+    "version_name": "1.0",
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/1.0/tvmanager1.0.apk",
+    "sha256_checksum": "86c4bb2177f87d5bd572bb514cb87c6c33d4a294f36d068f1d4e9daf1c0a82db",
+    "is_force_update": false,
+    "is_downgrade_allowed": false,
+    "release_notes": "Initial release of TvManager.",
+    "publish_date": "2026-03-16T13:04:46Z",
+    "product_ids": [
+      "XT-X1-PRO"
+    ],
+    "product_id_regex": null,
+    "excluded_product_ids": []
   }
 ]
