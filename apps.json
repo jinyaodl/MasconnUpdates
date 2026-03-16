@@ -1,26 +1,9 @@
 [
   {
-    "package_name": "com.masconn.launcher",
-    "app_name": "Masconn Launcher",
-    "version_code": 100,
-    "version_name": "1.0.0",
-    "download_url": "https://github.com/jinyaodl/MasconnUpdates/releases/download/v1.0.0/MasconnLauncher_100.apk",
-    "sha256_checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "is_force_update": false,
-    "is_downgrade_allowed": false,
-    "release_notes": "Initial release of the Masconn Launcher.",
-    "publish_date": "2026-03-14T21:30:00Z",
-    "product_ids": [
-      "XT-X1-PRO"
-    ],
-    "product_id_regex": null,
-    "excluded_product_ids": []
-  },
-  {
     "package_name": "com.ff.smartupdate",
     "app_name": "TvManager",
-    "version_code": 200,
-    "version_name": "2.0",
+    "version_code": 188,
+    "version_name": "2.0.0",
     "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/1.0/tvmanager1.0.apk",
     "sha256_checksum": "86c4bb2177f87d5bd572bb514cb87c6c33d4a294f36d068f1d4e9daf1c0a82db",
     "is_force_update": false,
