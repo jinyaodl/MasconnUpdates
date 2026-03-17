@@ -2,14 +2,14 @@
   {
     "package_name": "com.ff.smartupdate",
     "app_name": "TvManager",
-    "version_code": 188,
+    "version_code": 200,
     "version_name": "2.0.0",
-    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/1.0/tvmanager1.0.apk",
-    "sha256_checksum": "86c4bb2177f87d5bd572bb514cb87c6c33d4a294f36d068f1d4e9daf1c0a82db",
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/TvManager/200/tvmanager_2.0.0.apk",
+    "sha256_checksum": "0fccd8f14b189f17ff0f804fd87cdf04eb36d92318741f859055b017a976d623",
     "is_force_update": false,
     "is_downgrade_allowed": false,
     "release_notes": "Initial release of TvManager.",
-    "publish_date": "2026-03-16T13:04:46Z",
+    "publish_date": "2026-03-17T11:36:04Z",
     "product_ids": [
       "z1_8052"
     ],
