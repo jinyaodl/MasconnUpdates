@@ -28,7 +28,7 @@
     "release_notes": "Automated release for SmartTube",
     "publish_date": "2026-03-17T00:42:21Z",
     "product_ids": [],
-    "product_id_regex": "*",
+    "product_id_regex": ".*",
     "excluded_product_ids": []
   }
 ]
