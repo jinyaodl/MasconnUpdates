@@ -11,7 +11,7 @@
     "release_notes": "Automated release for tvmanager",
     "publish_date": "2026-03-19T01:43:33Z",
     "product_ids": [
-      "z1"
+      "z1_8052"
     ],
     "product_id_regex": null,
     "excluded_product_ids": []
