@@ -2,14 +2,14 @@
   {
     "package_name": "com.ff.smartupdate",
     "app_name": "TvManager",
-    "version_code": 212,
-    "version_name": "2.1.2",
-    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.1.2/tvmanager_2.1.2.apk",
-    "sha256_checksum": "1edf2b8e0301316f88a2d0329646befe969920767388436657baa753ef4b543f",
+    "version_code": 213,
+    "version_name": "2.1.3",
+    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/TvManager/213/TvManager_213.apk",
+    "sha256_checksum": "fe34341c8a591944bef413d8b7245132f15d39df5c4fb0da033da83a7bb6676c",
     "is_force_update": false,
     "is_downgrade_allowed": false,
-    "release_notes": "Automated release for tvmanager",
-    "publish_date": "2026-03-19T01:43:33Z",
+    "release_notes": "Automated release for TvManager v2.1.3",
+    "publish_date": "2026-03-21T01:40:00Z",
     "product_ids": [
       ".*"
     ],
