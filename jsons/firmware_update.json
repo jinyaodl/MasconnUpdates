@@ -1,0 +1,16 @@
+[
+  {
+    "version_code": 20251010,
+    "version_name": "z1_8052_20251010",
+    "update_type": "full",
+    "base_version_code": null,
+    "min_version_code": null,
+    "max_version_code": null,
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/z1_8052_20251010/z1_8052_20251010.zip",
+    "sha256_checksum": "ef8beae9214d02f10128c94d8be29481789db4ff28e0204157a417e61375b852",
+    "is_force_update": false,
+    "release_notes": "",
+    "publish_date": "2026-03-15T18:37:00Z",
+    "product_id": "xxxxx"
+  }
+]
