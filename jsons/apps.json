@@ -5,11 +5,11 @@
     "version_code": 222,
     "version_name": "2.2.2",
     "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.2.2/tvmanager_2.2.2.apk",
-    "sha256_checksum": "30926a65e17cba4c0a8778b9d84e0b09770504f865ca964c381915160dbc181f",
+    "sha256_checksum": "9c63b71b75b50e14d348fe192673737840ec2e94129557d8f45b6e6941785528",
     "is_force_update": false,
     "is_downgrade_allowed": false,
     "release_notes": "Automated release for tvmanager v2.2.2",
-    "publish_date": "2026-04-07T12:09:00Z",
+    "publish_date": "2026-04-07T12:45:00Z",
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": []
