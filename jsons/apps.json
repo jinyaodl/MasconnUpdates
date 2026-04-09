@@ -12,7 +12,9 @@
     "publish_date": "2026-04-09T06:03:30Z",
     "product_ids": [],
     "product_id_regex": ".*",
-    "excluded_product_ids": []
+    "excluded_product_ids": [
+      "z2"
+    ]
   },
   {
     "package_name": "com.ff.myairtv",
