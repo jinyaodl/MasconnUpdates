@@ -13,7 +13,12 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [
-      "z2"
+      "z2",
+      "tr1",
+      "tr2",
+      "c1",
+      "n1",
+      "x1p"
     ]
   },
   {
