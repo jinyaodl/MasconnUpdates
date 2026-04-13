@@ -2,14 +2,14 @@
   {
     "package_name": "com.ff.smartupdate",
     "app_name": "TvManager",
-    "version_code": 225,
-    "version_name": "2.2.5",
-    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.2.5/tvmanager_2.2.5.apk",
-    "sha256_checksum": "1aeab8f8dc7bc3f528eeb4f14790452014d4905145caf558a650c52dadfd53aa",
+    "version_code": 226,
+    "version_name": "2.2.6",
+    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.2.6/tvmanager_2.2.6.apk",
+    "sha256_checksum": "143ef31d11df085bedbde619c1773a54b4c65793616904829fce890aa4a947f2",
     "is_force_update": false,
     "is_downgrade_allowed": false,
-    "release_notes": "Automated release for tvmanager 2.2.5",
-    "publish_date": "2026-04-11T01:14:00Z",
+    "release_notes": "Automated release for tvmanager 2.2.6",
+    "publish_date": "2026-04-13T06:48:33Z",
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [
@@ -49,7 +49,7 @@
   {
     "package_name": "com.yui.otaupdate",
     "app_name": "Ffguard",
-    "version_code": 130,
+    "version_code": 4,
     "version_name": "1.3",
     "download_url": "https://github.com/61160306/storeupdate/releases/download/app/ffguard/1.3/ffguard_1.3.apk",
     "sha256_checksum": "3c6fd7f4fa84101f20784f1ce30b8a952db5d3085883371278c63de9143bf854",
@@ -59,6 +59,8 @@
     "publish_date": "2026-04-11T01:14:00Z",
     "product_ids": [],
     "product_id_regex": ".*",
-    "excluded_product_ids": []
+    "excluded_product_ids": [
+      "z2"
+    ]
   }
 ]
