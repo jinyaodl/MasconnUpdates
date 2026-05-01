@@ -2,14 +2,14 @@
   {
     "package_name": "com.ff.smartupdate",
     "app_name": "TvManager",
-    "version_code": 229,
-    "version_name": "2.2.9",
-    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.2.9/tvmanager_2.2.9.apk",
-    "sha256_checksum": "7bd496508cdeabfd9a6d099a0444a3c5829f176c9d023938030c9b784cd2e991",
+    "version_code": 230,
+    "version_name": "2.3.0",
+    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.3.0/tvmanager_2.3.0.apk",
+    "sha256_checksum": "fc5c04520a57db2db9848c29562341db195ddceb332f67df3588da1fb504ceb2",
     "is_force_update": false,
     "is_downgrade_allowed": false,
-    "release_notes": "Automated release for tvmanager 2.2.9",
-    "publish_date": "2026-04-19T02:07:00Z",
+    "release_notes": "Automated release for tvmanager 2.3.0",
+    "publish_date": "2026-05-01T13:42:00Z",
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [
@@ -63,7 +63,7 @@
     "release_notes": "Automated release for ffguard 1.3",
     "publish_date": "2026-04-11T01:14:00Z",
     "product_ids": [],
-    "product_id_regex": ".*",
+    "product_id_regex": "xxxxxxx",
     "excluded_product_ids": [
       "z2"
     ]
