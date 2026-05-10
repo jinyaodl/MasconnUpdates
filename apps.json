@@ -2,14 +2,14 @@
   {
     "package_name": "com.ff.smartupdate",
     "app_name": "TvManager",
-    "version_code": 232,
-    "version_name": "2.3.2",
-    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.3.2/tvmanager_2.3.2.apk",
-    "sha256_checksum": "017edeec317003a0f302c925079e68fcb8a7ce34c55b830fc8ab12ee3c5fb5e2",
+    "version_code": 233,
+    "version_name": "2.3.3",
+    "download_url": "https://github.com/61160306/storeupdate/releases/download/app/tvmanager/2.3.3/tvmanager_2.3.3.apk",
+    "sha256_checksum": "4da12531d41ac9f3f6a2819e928cd44a2f9e15007eaf0796ae7783e0d8d38fe9",
     "is_force_update": false,
     "is_downgrade_allowed": false,
-    "release_notes": "Automated release for tvmanager 2.3.2",
-    "publish_date": "2026-05-02T11:51:00Z",
+    "release_notes": "Automated release for tvmanager 2.3.3",
+    "publish_date": "2026-05-10T16:55:00Z",
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [
@@ -20,6 +20,27 @@
       "n1",
       "x1p"
     ]
+  },
+  {
+    "package_name": "com.ff.smartupdate",
+    "app_name": "TvManager",
+    "version_code": 232,
+    "version_name": "2.3.2c",
+    "download_url": "https://github.com/jinyaodl/myairtv/releases/download/108/tvmanager_2.3.2c.apk",
+    "sha256_checksum": "017edeec317003a0f302c925079e68fcb8a7ce34c55b830fc8ab12ee3c5fb5e2",
+    "is_force_update": false,
+    "is_downgrade_allowed": false,
+    "release_notes": "Automated release for tvmanager 2.3.2",
+    "publish_date": "2026-05-02T11:51:00Z",
+    "product_ids": [
+      "tr1",
+      "tr2",
+      "c1",
+      "n1",
+      "x1p"
+    ],
+    "product_id_regex": "xxxxxxx",
+    "excluded_product_ids": []
   },
   {
     "package_name": "com.ff.myairtv",
