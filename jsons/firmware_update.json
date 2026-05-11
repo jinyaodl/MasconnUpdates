@@ -1,15 +1,29 @@
 [
   {
+    "version_code": 20260508,
+    "version_name": "z1_kobra_20260508",
+    "update_type": "full",
+    "base_version_code": null,
+    "min_version_code": 0,
+    "max_version_code": 0,
+    "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/z1_kobra_20260508/z1_kobra_20260508.zip",
+    "sha256_checksum": "8e2394f91db0fa5586404c00ef60841c0cb62e94a47bac54376e94e36fd053d4",
+    "is_force_update": false,
+    "release_notes": "Solve Youtube issue and Disney plus issue",
+    "publish_date": "2026-05-11T18:48:00Z",
+    "product_id": "z1_kobra"
+  },
+  {
     "version_code": 20260510,
     "version_name": "z1a_kobra_20260510",
     "update_type": "full",
     "base_version_code": null,
-    "min_version_code": null,
-    "max_version_code": null,
+    "min_version_code": 0,
+    "max_version_code": 0,
     "download_url": "https://github.com/jinyaodl/iwantacake/releases/download/z1a_kobra_20260510/z1a_kobra_20260510.zip",
     "sha256_checksum": "60a90b3698e6e2e66bee0c5198e80c0ec025d868db199c6b950b18a8151799d2",
     "is_force_update": false,
-    "release_notes": "Automated release for z1a_kobra",
+    "release_notes": "Solve Youtube issue and Disney plus issue",
     "publish_date": "2026-05-11T18:32:00Z",
     "product_id": "z1a_kobra"
   },
